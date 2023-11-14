@@ -1,8 +1,12 @@
-- <h2 class="text_shadows">hey</h2>
-- 👋 Hi, I’m Prabhjeet Singh
-- 👀 I’m interested in using AI to solve various problems like data analytics, computer vision etc.
-- 🌱 I’m currently learning data science and machine learning algorithms to fulfil my desires in AI field.
-- 📫 You can add me on LinkedIn : https://www.linkedin.com/in/prabhjeetsingh95/
+# <! Hey 👋!>
+### 📫 About Me
+- 👋 Myself Prabhjeet Singh
+- 👀 Passionate about leveraging data analytics, predictive modeling, and computer vision to drive innovative problem-solving across various domains.
+- 🌱 Actively learning statistics and algorithms to delve deeper into the AI field. Aspiring to leverage these skills to innovate and solve complex problems..
+
+
+### 📫 How to reach me? 
+- [LinkedIn](https://www.linkedin.com/in/prabhjeetsingh95/)
 
 <!---
 prabhjeetsinghk/prabhjeetsinghk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
