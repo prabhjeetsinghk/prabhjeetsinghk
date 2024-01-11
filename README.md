@@ -7,7 +7,6 @@
 
 ### 📫 How to reach me? 
 - [LinkedIn](https://www.linkedin.com/in/prabhjeetsingh95/)
-![Leetcode Stats](https://leetcard.jacoblin.cool/prabhjeetsinghk/))
 <!---
 prabhjeetsinghk/prabhjeetsinghk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
