@@ -5,9 +5,17 @@
 - 🌱 Actively learning statistics and algorithms to delve deeper into the AI field. Aspiring to leverage these skills to innovate and solve complex problems..
 
 
-### 📫 How to reach me? 
-- [LinkedIn](https://www.linkedin.com/in/prabhjeetsingh95/)
-<!---
-prabhjeetsinghk/prabhjeetsinghk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫Skills
+- **Programming Languages:** Python, Java, C++
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualization:** Plotly, Seaborn, Matplotlib
+- **Machine Learning:** Scikit-learn, TensorFlow
+- **Database:** MySQL, PostgreSQL
+- **Version Control:** Git
+
+
+### 📫 How to reach me?
+Feel free to reach out for collaborations or just to chat about data. You can find me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/prabhjeetsingh95/))
+
+Happy analyzing! 🚀
+
