@@ -15,7 +15,7 @@
 
 
 ### 📫 How to reach me?
-Feel free to reach out for collaborations or just to chat about data. You can find me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/prabhjeetsingh95/))
+Feel free to reach out for collaborations or just to chat about data. You can find me on [LinkedIn](https://www.linkedin.com/in/prabhjeetsingh95/)
 
 Happy analyzing! 🚀
 
